@@ -1,0 +1,5 @@
+# Core
+django==4.0.5
+
+# Create fake people
+Faker==13.12.1
